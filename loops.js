@@ -18,5 +18,5 @@ function doWhileLoop(array) {
   do {
     return array;
   }
-  while(maybeTrue()); 
+  while(array.length > 0 maybeTrue()); 
 }

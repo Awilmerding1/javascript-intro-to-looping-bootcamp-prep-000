@@ -16,7 +16,7 @@ function whileLoop(number) {
 
 function doWhileLoop(array) {
   do {
+    return array;
   }
   while(maybeTrue()); 
-  return array
 }
